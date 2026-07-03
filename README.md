@@ -1,2 +1,2 @@
 # StudyMate
-our Personal Research &amp; Homework Assistant
+Your Personal Research &amp; Homework Assistant
