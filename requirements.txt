@@ -1,0 +1,6 @@
+streamlit
+groq
+tavily-python
+chromadb
+sentence-transformers
+pypdf
